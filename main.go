@@ -8,6 +8,6 @@ const (
 )
 
 func main() {
-	eurRub := usdRub / usdEur
+	eurRub2 := usdRub / usdEur
 	fmt.Println(eurRub)
 }
